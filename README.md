@@ -1,6 +1,6 @@
 ## Hello there
 
 - working at [CJ Affiliate](https://www.cj.com/) , part of the [Publicis Groupe](https://www.publicisgroupe.com/en/) family
-- using [AWS](https://aws.amazon.com/), [Scala](https://www.scala-lang.org/), [Haskell](https://www.haskell.org/), [Python](https://www.python.org/)
-- past work in [TypeScript](https://www.typescriptlang.org/), [Clojure](https://clojure.org/), [Javascript](https://www.javascript.com/), Java, C#, F#, C++, Azure
-- Operating Systems: NixOS, MacOS
+- using [Scala](https://www.scala-lang.org/), [Java](https://www.java.com/en/), [Kubernetes](https://kubernetes.io/), [Python](https://www.python.org/)
+- past work in Haskell, AWS, TypeScript, Clojure, Javascript, C#, F#, C++, Azure
+- Operating Systems: MacOs, RedHat, NixOS
